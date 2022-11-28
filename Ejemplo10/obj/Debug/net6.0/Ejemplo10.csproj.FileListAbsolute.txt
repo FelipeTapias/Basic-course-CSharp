@@ -1,0 +1,15 @@
+C:\Users\atapias\source\repos\Ejemplo10\bin\Debug\net6.0\Ejemplo10.exe
+C:\Users\atapias\source\repos\Ejemplo10\bin\Debug\net6.0\Ejemplo10.deps.json
+C:\Users\atapias\source\repos\Ejemplo10\bin\Debug\net6.0\Ejemplo10.runtimeconfig.json
+C:\Users\atapias\source\repos\Ejemplo10\bin\Debug\net6.0\Ejemplo10.dll
+C:\Users\atapias\source\repos\Ejemplo10\bin\Debug\net6.0\Ejemplo10.pdb
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.csproj.AssemblyReference.cache
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.AssemblyInfoInputs.cache
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.AssemblyInfo.cs
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.csproj.CoreCompileInputs.cache
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.dll
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\refint\Ejemplo10.dll
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.pdb
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\Ejemplo10.genruntimeconfig.cache
+C:\Users\atapias\source\repos\Ejemplo10\obj\Debug\net6.0\ref\Ejemplo10.dll

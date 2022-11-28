@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ejemplo04": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
